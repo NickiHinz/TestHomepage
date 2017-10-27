@@ -1,9 +1,10 @@
 body {
-  background: white;
-  color: grey;
-  font-family: "Courier New", monospace;
-  text-align: center;
+  background: white; 
+  color: grey; 
+  font-family: "Courier New", monospace;
+  text-align: center;
 }
+
 h1 {
   color: orange;
 }
